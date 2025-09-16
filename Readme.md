@@ -50,24 +50,25 @@ This project is licensed under the MIT License.
 Below are example screenshots showcasing key features of Bookmark Network:
 
 #### Home Feed
-![Home Feed](screenshots/Screenshot Dashboard.png)
+![Home Feed](screenshots/Screenshot_Dashboard.png)
 
 #### Bookmark Detail
-![Bookmark Detail](screenshots/Screenshot T-fal Clipso Stainless Steel Pressure Cooker 6.3 Quart Induction Secuook Included Cookware Pots and Pans Kitchen Dishwasher Safe Silver Home & Kitchen.png)
+![Bookmark Detail](screenshots/Screenshot_Item.png)
 
 #### Image Gallery
-![Image Gallery](screenshots/Screenshot Images bookmarked.png)
+![Image Gallery](screenshots/Screenshot_Images_bookmarked.png)
 
 #### Additional Screenshots
 
 Below are more screenshots from the `screenshots/` directory:
 
-![User Profile](screenshots/Screenshot Julian Webb.png)
-![Edit Account](screenshots/Screenshot Edit your account.png)
-![People List](screenshots/Screenshot People.png)
-![Login Page](screenshots/Screenshot Log-in.png)
-![Logout Page](screenshots/Screenshot Logged out.png)
-![Bookmark List](screenshots/Screenshot Images bookmarked.png)
-![Reset Password](screenshots/Screenshot Reset your password.png)
+![User Profile](screenshots/Screenshot_Julian_Webb.png)
+![Edit Account](screenshots/Screenshot_Edit_your_account.png)
+![People List](screenshots/Screenshot_People.png)
+![Login Page](screenshots/Screenshot_Log-in.png)
+![Logout Page](screenshots/Screenshot_Logged_out.png)
+![Bookmark List](screenshots/Screenshot_Images_bookmarked.png)
+![Reset Password](screenshots/Screenshot_Reset_your_password.png)
+![Change Password](screenshots/Screenshot_Change_your_password.png)
 
 Screenshots are located in the `screenshots/` directory.
