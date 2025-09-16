@@ -44,3 +44,18 @@ Bookmark Network is a Django-based social platform designed for organizing, shar
 ### License
 
 This project is licensed under the MIT License.
+
+### Screenshots
+
+Below are example screenshots showcasing key features of Bookmark Network:
+
+#### Home Feed
+![Home Feed](screenshots/home_feed.png)
+
+#### Bookmark Detail
+![Bookmark Detail](screenshots/bookmark_detail.png)
+
+#### Image Gallery
+![Image Gallery](screenshots/image_gallery.png)
+
+Screenshots are located in the `screenshots/` directory.
