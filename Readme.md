@@ -50,12 +50,24 @@ This project is licensed under the MIT License.
 Below are example screenshots showcasing key features of Bookmark Network:
 
 #### Home Feed
-![Home Feed](screenshots/home_feed.png)
+![Home Feed](screenshots/Screenshot Dashboard.png)
 
 #### Bookmark Detail
-![Bookmark Detail](screenshots/bookmark_detail.png)
+![Bookmark Detail](screenshots/Screenshot T-fal Clipso Stainless Steel Pressure Cooker 6.3 Quart Induction Secuook Included Cookware Pots and Pans Kitchen Dishwasher Safe Silver Home & Kitchen.png)
 
 #### Image Gallery
-![Image Gallery](screenshots/image_gallery.png)
+![Image Gallery](screenshots/Screenshot Images bookmarked.png)
+
+#### Additional Screenshots
+
+Below are more screenshots from the `screenshots/` directory:
+
+![User Profile](screenshots/Screenshot Julian Webb.png)
+![Edit Account](screenshots/Screenshot Edit your account.png)
+![People List](screenshots/Screenshot People.png)
+![Login Page](screenshots/Screenshot Log-in.png)
+![Logout Page](screenshots/Screenshot Logged out.png)
+![Bookmark List](screenshots/Screenshot Images bookmarked.png)
+![Reset Password](screenshots/Screenshot Reset your password.png)
 
 Screenshots are located in the `screenshots/` directory.
