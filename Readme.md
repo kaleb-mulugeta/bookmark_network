@@ -16,7 +16,7 @@ Bookmark Network is a Django-based social platform designed for organizing, shar
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/bookmark_network.git
+    git clone https://github.com/kaleb-mulugeta/bookmark_network.git
     cd bookmark_network
     ```
 2. **Install Dependencies:**
